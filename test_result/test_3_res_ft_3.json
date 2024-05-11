@@ -1,0 +1,46 @@
+[
+    {
+        "question": "有哪些接口可以获取曲面参数范围？",
+        "llama-8b": "There are several interfaces that can be used to get the range of surface parameters."
+    },
+    {
+        "question": "如何根据参数获取曲面上某点的坐标？",
+        "llama-8b": "You can use the \"Point\" command in the \"Surface\" toolbox to get the coordinates of a point on a surface."
+    },
+    {
+        "question": "如何根据参数获取曲面上某点的法向？",
+        "llama-8b": "To get the normal of a point on a surface, you can use the following method: 1. Select the surface. 2. Right-click and select \"Surface\" > \"Get Normal\". 3. In the \"Get Normal\" dialog box, select the point on the surface. 4. The normal of the point will be displayed in the \"Normal\" field."
+    },
+    {
+        "question": "有哪些接口可以获取全部造型？",
+        "llama-8b": "You can get all the shapes by using the following interfaces: GetAllShapes, GetShapes, GetShape, GetShapeList, GetShapeList2."
+    },
+    {
+        "question": "如何获取草图参考？",
+        "llama-8b": "How to get reference from drawing?"
+    },
+    {
+        "question": "选择孔特征的接口是什么？",
+        "llama-8b": "The interface of the hole feature is the hole center."
+    },
+    {
+        "question": "如何获取零件属性？",
+        "llama-8b": "To get the properties of a part, you can use the \"Get Properties\" command."
+    },
+    {
+        "question": "中望3D的API有什么接口能拿到模型的所有实体ID吗？",
+        "llama-8b": "Yes, you can get all entity IDs of a model in ZWCAD API."
+    },
+    {
+        "question": "如何把一个造型分为多个造型？",
+        "llama-8b": "To divide a shape into multiple shapes, you can use the \"Split\" command."
+    },
+    {
+        "question": "如何获取被选中的组件？",
+        "llama-8b": "You can use the following methods to get the selected component. \n\n1. Get the selected component by using the GetSelectedObject() method. \n\n    ```cpp\n    // Get the selected component\n    Z3D::Component* pComponent = Z3D::GetActiveModel()->GetSelectedObject(Z3D::Component::Type);\n    ```\n\n2. Get the selected component by using the GetSelectedObject() method with the object type. \n\n    ```cpp\n    // Get the selected component\n    Z3D::Component* pComponent = Z3D::GetActiveModel()->GetSelectedObject(Z3D::Component::Type);\n    ```\n\n3. Get the selected component by using the GetSelectedObject() method with the object type and the object index. \n\n    ```cpp\n    // Get the selected component\n    Z3D::Component* pComponent = Z3D::GetActiveModel()->GetSelectedObject(Z3D::Component::Type, 0);\n    ```\n\n4. Get the selected component by using the GetSelectedObject() method with the object type and the object index. \n\n    ```cpp\n    // Get the selected component\n    Z3D::Component* pComponent = Z3D::GetActive"
+    },
+    {
+        "question": "如何隐藏实体？",
+        "llama-8b": "To hide an entity, you can use the \"Hide\" command."
+    }
+]

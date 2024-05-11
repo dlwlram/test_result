@@ -1,0 +1,46 @@
+[
+    {
+        "question": "有哪些接口可以获取曲面参数范围？",
+        "llama-8b": "What interfaces can be used to get the range of surface parameters?"
+    },
+    {
+        "question": "如何根据参数获取曲面上某点的坐标？",
+        "llama-8b": "How to get the coordinate of a point on the surface based on parameters? \n\nThe point on the surface is specified by the surface parameter u and v. The coordinate of the point is calculated by the surface equation. The surface equation is usually a function of the surface parameter u and v. The function is calculated by the surface equation function. The surface equation function is usually defined in the part file. The surface equation function is called by the surface equation function. The coordinate of the point is calculated by the surface equation function. The coordinate of the point is returned by the coordinate function. The coordinate function is called by the surface equation function. The coordinate function is defined in the part file. The surface equation function is called by the coordinate function. The surface equation function is defined in the part file. The surface equation function is called by the coordinate function. The coordinate function is called by the surface equation function. The surface equation function is defined in the part file. The coordinate function is defined in the part file. The coordinate function is called by the surface equation function. The coordinate function is defined in the part file. The surface equation function is called by the coordinate function. The coordinate function is defined in the part file. The coordinate function is defined in the part file. The"
+    },
+    {
+        "question": "如何根据参数获取曲面上某点的法向？",
+        "llama-8b": "How to get the normal of a point on a surface based on parameters?"
+    },
+    {
+        "question": "有哪些接口可以获取全部造型？",
+        "llama-8b": "There are several interfaces that can get all shapes. The following are some of the most common: 1. Part::Shape() - This returns all of the shapes in the part. 2. Part::Shape(int) - This returns all of the shapes in the part with the given shape type. 3. Part::Shape(int, int) - This returns all of the shapes in the part with the given shape type and shape sub-type. 4. Part::Shape(int, int, int) - This returns all of the shapes in the part with the given shape type, shape sub-type and shape sub-sub-type. 5. Part::Shape(int, int, int, int) - This returns all of the shapes in the part with the given shape type, shape sub-type, shape sub-sub-type and shape sub-sub-sub-type. 6. Part::Shape(int, int, int, int, int) - This returns all of the shapes in the part with the given shape type, shape sub-type, shape sub-sub-type, shape sub-sub-sub-type and shape sub-sub-sub-sub-type. 7. Part::Shape(int, int, int, int, int, int) - This returns all of the shapes in the part with"
+    },
+    {
+        "question": "如何获取草图参考？",
+        "llama-8b": "To get a sketch reference. Sketch references are used to connect the sketch to the part. Sketch reference can be obtained by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a sketch reference. You can obtain it by sketching, sketch dimension, sketch constraint, sketch point, sketch curve and sketch loop. Sketch reference is a"
+    },
+    {
+        "question": "选择孔特征的接口是什么？",
+        "llama-8b": "What is the interface for selecting hole features????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????"
+    },
+    {
+        "question": "如何获取零件属性？",
+        "llama-8b": "How to get part attributes?"
+    },
+    {
+        "question": "中望3D的API有什么接口能拿到模型的所有实体ID吗？",
+        "llama-8b": "There are many ways to get all entity IDs in ZW3D API. Here are a few ways. You can get all entities in the active document. The following code can get all entities, including 3D faces, 2D faces, lines, circles, arcs, curves, points, etc. You can get all entity IDs of the active document using the following code: ZW3D API中有多种方法可以获取所有实体ID。以下是一些方法。您可以获取活动文档中的所有实体。以下代码可以获取所有实体，包括3D面、2D面、线、圆、弧、曲线、点等。您可以使用以下代码获取活动文档的所有实体ID： ``` csharp ZW3DPart part = zw3dPartActive(); ZW3DEntity[] entities = part.GetEntities(ZW3DPartEntityFlags.All); foreach (ZW3DEntity entity in entities) { int id = entity.EntityId; // Here you can do something with the entity ID. } ``` This method can get all entity IDs in the active document. You can get all entity IDs of the active document using the following code: ``` csharp ZW3"
+    },
+    {
+        "question": "如何把一个造型分为多个造型？",
+        "llama-8b": "How to divide a shape into multiple shapes? The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes. The shape is divided into multiple shapes"
+    },
+    {
+        "question": "如何获取被选中的组件？",
+        "llama-8b": "How to get the selected component?"
+    },
+    {
+        "question": "如何隐藏实体？",
+        "llama-8b": "How to hide entities?"
+    }
+]
